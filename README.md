@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm John 👋
 
-<!--
-**JohnSaidi/JohnSaidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Computer Science Student at University of South Carolina
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- - 🔭 I’m currently working on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+- 🌱 I’m currently learning: Data Structures Algorithms and Mysql
+- 👯 I’m looking to collaborate on Building Cool Software
+- 💬 Ask me about ... Anything
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/john-s-564056195/) 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: ... Visca Barca ⚽
+
