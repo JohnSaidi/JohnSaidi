@@ -1,12 +1,14 @@
 ### Hi, I'm John 👋
 
-## I'm a Computer Science Student at University of South Carolina
+## AI Engineer | Building AI Solutions
 
 
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-- 👯 I’m looking to collaborate on Building Cool Software
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/johnsaidifortunato/) 
-- ⚡ Fun fact: ... Visca Barca ⚽
+- 🤖 Current Project: AI Resume Tailor (Chrome Extension)
+- 💻 Python | JavaScript | AWS Cloud
+- 🎓 UofSC Grad
+- ⚽ Fun fact: Visca Barca! 🔵🔴
+- 🔗 Let's talk: [LinkedIn](https://www.linkedin.com/in/johnsaidifortunato/) 
+
 
